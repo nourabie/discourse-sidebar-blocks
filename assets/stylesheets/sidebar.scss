@@ -1,12 +1,12 @@
 html:not(.mobile-view) {
   .has-sidebar + .sidebar {
-    width: 2%;
+    width: 13%;
     float: right;
     min-height: 100px;
   }
 
   .list-container.has-sidebar {
-    width: 86%;
+    width: 85%;
     float: right;
   }
 
